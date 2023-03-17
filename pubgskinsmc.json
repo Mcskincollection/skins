@@ -37,12 +37,11 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "applovin_max",
-		"backup_ads": "applovin_max",
-		"applovin_banner_ad_unit_id": "3042bf301074f13e",
-		"applovin_interstitial_ad_unit_id": "48dc62c0dd8242af",
-		"applovin_native_ad_manual_unit_id": "f8f6eca78877b076",
+		"backup_ads": "startapp",
+		"applovin_interstitial_ad_unit_id": "6d2f40fb8e26b1a9",
+		"startapp_app_id": "201473807",
 		"unity_game_id": "5139777",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
