@@ -37,10 +37,12 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "applovin_max",
 		"backup_ads": "startapp",
+        "applovin_banner_ad_unit_id": "53ae85cf9bc6aac1",
 		"applovin_interstitial_ad_unit_id": "cfe463937288ea78",
+        "applovin_native_ad_manual_unit_id": "d195e563b73e6890",
 		"startapp_app_id": "201473807",
 		"unity_game_id": "5139777",
 		"unity_banner_placement_id": "Banner_Android",
