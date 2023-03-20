@@ -39,10 +39,10 @@
 	"ads": {
 		"ad_status": "1",
 		"ad_type": "applovin_max",
-		"backup_ads": "startapp",
-        "applovin_banner_ad_unit_id": "45acf7528a3503b4",
+		"backup_ads": "ironsource",
+		"applovin_banner_ad_unit_id": "45acf7528a3503b4",
 		"applovin_interstitial_ad_unit_id": "1f4d7a26ec830439",
-        "applovin_native_ad_manual_unit_id": "47e36030efe5d922",
+		"applovin_native_ad_manual_unit_id": "47e36030efe5d922",
 		"startapp_app_id": "201473807",
 		"unity_game_id": "5139777",
 		"unity_banner_placement_id": "Banner_Android",
