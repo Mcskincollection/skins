@@ -39,7 +39,7 @@
 	"ads": {
 		"ad_status": "1",
 		"ad_type": "applovin_max",
-		"backup_ads": "ironsource",
+		"backup_ads": "startapp",
 		"applovin_banner_ad_unit_id": "bd3612dcbfe402c1",
 		"applovin_interstitial_ad_unit_id": "3b27ec40a2fd1c02",
 		"applovin_native_ad_manual_unit_id": "9912f964737adb05",
