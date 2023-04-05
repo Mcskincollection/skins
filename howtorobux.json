@@ -13,22 +13,15 @@
 	},	
 	"menus": [
 		{
-			"name": "Skins",
+			"name": "Get free Robux",
 			"type": "url",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_home.png",
-			"url": "https://skins2.app.com.tc/skins/ldshadowladyskinsmc/"
+			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_home.png",
+			"url": "https://app.com.tc/mods/category/howtorbx/"
 		},
-		{
-			"name": "Instruction",
-			"type": "url",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_instruction.png",
-			"url": "https://skins2.app.com.tc/assets/how"
-		},
-
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_privacy.png",
+			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_privacy.png",
 			"url": "mcskincollection_policy.html"
 		}
 	],
@@ -41,18 +34,18 @@
 		"ad_type": "admob",
 		"backup_ads": "applovin_max",
 		"admob_publisher_id": "pub-9466586011189827",
-		"admob_app_id": "ca-app-pub-9466586011189827~7900534496",
-		"admob_banner_unit_id": "ca-app-pub-9466586011189827/6770166097",
-		"admob_interstitial_unit_id": "ca-app-pub-9466586011189827/5274371159",
-		"admob_native_unit_id": "ca-app-pub-9466586011189827/5457084429",
-		"admob_app_open_ad_unit_id": "ca-app-pub-9466586011189827/1335126144",
-		"applovin_banner_ad_unit_id": "6852bb97ce31ccf9",
-		"applovin_interstitial_ad_unit_id": "ed4fb0ec30f817ef",
-		"applovin_native_ad_manual_unit_id": "3e4fa91af80c0884",
-		"startapp_app_id": "201473807",
+		"admob_app_id": "ca-app-pub-9466586011189827~1166485628",
+		"admob_banner_unit_id": "ca-app-pub-9466586011189827/7117650451",
+		"admob_interstitial_unit_id": "ca-app-pub-9466586011189827/5804568781",
+		"admob_native_unit_id": "ca-app-pub-9466586011189827/4491487117",
+		"admob_app_open_ad_unit_id": "ca-app-pub-9466586011189827/3178405441",
+		"applovin_banner_ad_unit_id": "33486787d9c7e873",
+		"applovin_interstitial_ad_unit_id": "659728f7e4fa25ac",
+		"applovin_native_ad_manual_unit_id": "6ba12bf13ca699da",
 		"unity_game_id": "5139777",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
+		"startapp_app_id": "202508278",
 		"interstitial_ad_interval": 1
 	}
 }
