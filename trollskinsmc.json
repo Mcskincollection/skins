@@ -37,9 +37,15 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "1",
-		"ad_type": "applovin_max",
-		"backup_ads": "startapp",
+		"ad_status": "0",
+		"ad_type": "admob",
+		"backup_ads": "applovin_max",
+		"admob_publisher_id": "pub-9466586011189827",
+		"admob_app_id": "ca-app-pub-9466586011189827~5705578007",
+		"admob_banner_unit_id": "ca-app-pub-9466586011189827/9844967714",
+		"admob_interstitial_unit_id": "ca-app-pub-9466586011189827/8531886045",
+		"admob_native_unit_id": "ca-app-pub-9466586011189827/4392496335",
+		"admob_app_open_ad_unit_id": "ca-app-pub-9466586011189827/3079414664",
 		"applovin_banner_ad_unit_id": "a8cfcc8b4cdbeae6",
 		"applovin_interstitial_ad_unit_id": "2199f37ee5887223",
 		"applovin_native_ad_manual_unit_id": "5924d22834218d12",
