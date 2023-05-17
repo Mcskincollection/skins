@@ -53,6 +53,6 @@
 		"unity_game_id": "5139777",
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android",
-		"interstitial_ad_interval": 2
+		"interstitial_ad_interval": 1
 	}
 }
